@@ -1,0 +1,1 @@
+Validando el funcionamiento de Git
